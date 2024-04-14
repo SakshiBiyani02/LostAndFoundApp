@@ -1,6 +1,6 @@
 ShareIT VIT is a mobile application designed to facilitate the community at Vellore Institute of Technology (VIT) in locating and recovering lost
 items. With the power of crowdsourcing and modern technology, ShareIT VIT aims to make the process of finding lost belongings easier, faster,
-and more efficient.
+and more efficient. This app is particularly for VIT students. 
 Features:
 1.Lost Item Reporting:
 Users can report lost items through the app by providing details such as the item description, time and location it was last seen, and
@@ -21,4 +21,4 @@ on similarities in description, time, and location.
 5.Community Collaboration:
 ShareIT VIT fosters community collaboration by encouraging users to keep an eye out for lost items and report any sightings.
 Users can engage in discussions, share tips, and provide support to fellow community members who have lost items or are searching
-for them.
+for them. 
